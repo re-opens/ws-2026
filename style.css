@@ -107,11 +107,12 @@ li {
 }
 
 a {
-  color: #A8E6CF; /* Light mint aqua for readability on dark backgrounds */
+  color: #E76F51; /* Coral orange for all links */
   text-decoration: none;
 }
 
 a:hover {
-  color: #FFD166; /* Warm yellow for hover contrast */
+  color: #F4A261; /* Soft orange for hover */
 }
+
 
