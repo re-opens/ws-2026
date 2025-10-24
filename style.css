@@ -26,6 +26,12 @@ header {
 
 .header-left {
   flex: 0 0 80%;
+  text-align: center;
+}
+
+.header-left h1 {
+  margin: 0;
+  font-size: 1.6em;
 }
 
 .header-right {
