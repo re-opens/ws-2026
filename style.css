@@ -105,3 +105,13 @@ ul {
 li {
   margin-bottom: 0.5em;
 }
+
+a {
+  color: #A8E6CF; /* Light mint aqua for readability on dark backgrounds */
+  text-decoration: none;
+}
+
+a:hover {
+  color: #FFD166; /* Warm yellow for hover contrast */
+}
+
